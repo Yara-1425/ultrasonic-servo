@@ -10,6 +10,7 @@ This project is an interactive smart automation system powered by an **Arduino**
 * If the object moves closer (less than 10 cm), the servo returns to its original position and the LED turns off.
 
 ## project Deom
+![Project Demo](Demo.gif)
 
 ##  Components Needed
 
